@@ -6,7 +6,7 @@ The Original Typeface for Civic Creative Base Tokyo.
 
 ## Status
 
-- 1ウェイト, アルファベット大文字(A~Z), 数字(0~9), 記号(!?,.)のみ
+- 1ウェイト, アルファベット大文字(A-Z), 数字(0-9), 記号(!?,.)のみ
 
 ## Design & Generate
 
