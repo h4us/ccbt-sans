@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1662957316
-ModificationTime: 1676729591
+ModificationTime: 1682943157
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -49,7 +49,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 22 8
+WinInfo: 0 28 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -58,7 +58,7 @@ Grid
 -1200 714 m 0
  2400 714 l 1024
 EndSplineSet
-BeginChars: 65536 42
+BeginChars: 65536 44
 
 StartChar: A
 Encoding: 65 65 0
@@ -986,7 +986,7 @@ SplineSet
  100.400390625 0.400390625 l 5
  100.400390625 199.599609375 l 5
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: period
@@ -1425,6 +1425,44 @@ SplineSet
  299.599609375 399.599609375 l 1
  100.400390625 200.400390625 l 1
  100.400390625 399.599609375 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 42
+Width: 400
+Flags: W
+HStem: 800.4 199.199
+VStem: 100.4 199.199
+LayerCount: 2
+Fore
+SplineSet
+100.400390625 999.599609375 m 5
+ 299.599609375 999.599609375 l 5
+ 100.400390625 800.400390625 l 5
+ 100.400390625 999.599609375 l 5
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 43
+Width: 600
+Flags: W
+HStem: 800.4 199.199
+VStem: 100.4 399.199
+LayerCount: 2
+Fore
+SplineSet
+300.400390625 999.599609375 m 1
+ 499.599609375 999.599609375 l 1
+ 300.400390625 800.400390625 l 1
+ 300.400390625 999.599609375 l 1
+100.400390625 999.599609375 m 1
+ 299.599609375 999.599609375 l 1
+ 100.400390625 800.400390625 l 1
+ 100.400390625 999.599609375 l 1
 EndSplineSet
 Validated: 524289
 EndChar
