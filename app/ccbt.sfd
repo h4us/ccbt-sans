@@ -49,7 +49,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 28 8
+WinInfo: 0 28 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -986,7 +986,7 @@ SplineSet
  100.400390625 0.400390625 l 5
  100.400390625 199.599609375 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: period
@@ -1443,7 +1443,7 @@ SplineSet
  100.400390625 800.400390625 l 5
  100.400390625 999.599609375 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -1464,7 +1464,7 @@ SplineSet
  100.400390625 800.400390625 l 1
  100.400390625 999.599609375 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
